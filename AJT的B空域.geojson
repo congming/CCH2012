@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        119.833333,
+                        23.633333,
+                        10
+                    ],
+                    [
+                        120.366667,
+                        24.166667,
+                        10
+                    ],
+                    [
+                        120.516667,
+                        24.166667,
+                        10
+                    ],
+                    [
+                        120.4,
+                        23.9,
+                        10
+                    ],
+                    [
+                        120,
+                        23.5,
+                        10
+                    ],
+                    [
+                        119.833333,
+                        23.633333,
+                        10
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "AJT B空域",
+                "styleUrl": "#style01",
+                "fill-opacity": 1,
+                "fill": "#0000ff",
+                "stroke-opacity": 1,
+                "stroke": "#ff0000",
+                "stroke-width": 3.5,
+                "_COL1": 0,
+                "_COL2": 0,
+                "_COL3": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7833,
+                    24.556667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HLG",
+                "styleUrl": "#msn_placemark_circle0",
+                "label-opacity": 1,
+                "label-color": "#ff0000",
+                "label-scale": 0.5,
+                "icon-scale": 0.2,
+                "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"
+            }
+        }
+    ]
+}

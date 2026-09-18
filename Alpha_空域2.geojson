@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.594678,
+                        24.361363,
+                        0
+                    ],
+                    [
+                        120.161214,
+                        23.287384,
+                        0
+                    ],
+                    [
+                        119.757651,
+                        23.591934,
+                        0
+                    ],
+                    [
+                        120.594672,
+                        24.361361,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "a5",
+                "styleUrl": "#msn_ylw-pushpin0",
+                "stroke-opacity": 1,
+                "stroke": "#ff5500",
+                "stroke-width": 3,
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7833,
+                    24.556667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HLG",
+                "styleUrl": "#msn_placemark_circle0",
+                "label-opacity": 1,
+                "label-color": "#ff0000",
+                "label-scale": 0.5,
+                "icon-scale": 0.2,
+                "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"
+            }
+        }
+    ]
+}
